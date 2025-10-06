@@ -27,3 +27,4 @@ values
 (3, 'Bahasa Indonesia', 85),
 (4, 'Matematika', 82),
 (5, 'Bahasa Inggris', 91);
+
